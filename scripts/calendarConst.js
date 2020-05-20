@@ -9,3 +9,5 @@ const googleApikey = 'AIzaSyDcnW6WejpTOCffshGDDb4neIrXVUA1EAE';
 
 /*Add you calendar ID here */
 const googleCalendarId = 'en.usa#holiday@group.v.calendar.google.com'
+/* update the event color */
+const eventColor = 'grey';

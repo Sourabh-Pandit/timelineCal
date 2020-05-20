@@ -1,4 +1,21 @@
- #calendar {
-   margin: 25px 25px;
-   max-width: 100%;
+#calendar {
+  margin: 25px 25px;
+  max-width: 100%;
+}
+
+body{
+ background-image: linear-gradient(to right top, #a8c4e1, #99bdd8, #8ab6ce, #7bafc3, #6ea8b8, #65aab8, #5dacb8, #54aeb6, #4bbabf, #40c6c7, #33d2cd, #25ded2);
+}
+
+.fc-unthemed td.fc-today {
+
+background-color: #6ba09e !important
+}
+
+.fc-unthemed td.fc-future {
+ background-color: #6ea8b8 !important
+}
+
+.fc-unthemed td.fc-past {
+ background-color: #6ea8b8 !important
 }

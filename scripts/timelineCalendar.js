@@ -7,7 +7,10 @@ const calendar = new FullCalendar.Calendar(calendarEl, {
   eventLimit: true,
   header:{ left: 'prev', center: 'today', right: 'next'},
   googleCalendarApiKey: googleApikey,
-  events: googleCalendarId,
+  events:{
+     googleCalendarId:googleCalendarId,
+      color:eventColor
+  } ,
   nowIndicator:'true',
   now : changeNow,
   plugins: ['timeGrid', 'bootstrap', 'googleCalendar'],
