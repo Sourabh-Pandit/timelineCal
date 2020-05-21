@@ -19,3 +19,16 @@ background-color: #6ba09e !important
 .fc-unthemed td.fc-past {
  background-color: #6ea8b8 !important
 }
+
+.cal-class-1{
+    background-color: #c6ffdd !important;
+    pointer-events: none !important;
+    color: #571214 !important;
+}
+
+
+.cal-class-2{
+    background-color: #38ef7d !important;
+    pointer-events: none !important;
+    color:#571214 !important;
+}

@@ -8,6 +8,10 @@ const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept'
 const googleApikey = 'AIzaSyDcnW6WejpTOCffshGDDb4neIrXVUA1EAE';
 
 /*Add you calendar ID here */
-const googleCalendarId = 'en.usa#holiday@group.v.calendar.google.com'
-/* update the event color */
-const eventColor = 'grey';
+const googleCalendarId_1 = 'en.usa#holiday@group.v.calendar.google.com'
+/* update the event class to be styled by css */
+const gCalClass_1 = 'cal-class-1';
+/*Add you calendar ID here */
+const googleCalendarId_2 = 'en.uk#holiday@group.v.calendar.google.com'
+/* update the event class to be styled by css */
+const gCalClass_2 = 'cal-class-2';
